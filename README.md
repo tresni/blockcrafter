@@ -16,7 +16,7 @@ If you want to work with Blockcrafter, run `pip3 install --user -e .`. This inst
 
 ### Docker ###
 
-Just pull the docker image `mapcrafter/blockcrafter`.
+Just pull the docker image `mapcrafter/blockcrafter:master`.
 
 ## Usage ##
 
